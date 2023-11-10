@@ -1,0 +1,21 @@
+beautifulsoup4==4.12.2
+fastapi
+uvicorn
+twilio
+openai
+python-decouple
+sqlalchemy
+psycopg2-binary
+python-multipart
+pyngrok
+numpy
+pandas
+ta==0.10.2
+webdriver-manager==3.8.6
+websocket-client==1.6.1
+chromedriver-autoinstaller==0.4.1
+selenium==4.9.0
+requests==2.31.0
+gunicorn==20.1.0
+tvdatafeed @ git+https://github.com/xaviermcallistercapital/TvDataFeed-2.1.0.git@f64f33a30a99c77e1482070f77c9ce892dabacfe
+lxml==4.9.3
